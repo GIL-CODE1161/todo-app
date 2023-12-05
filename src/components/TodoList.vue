@@ -72,7 +72,7 @@
   .todo-input {
     width: 350px;
     padding: 10px 18px;
-    font-size: 18px;
+    font-size: 20px;
     font-style: italic;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-bottom: 16px;
@@ -112,7 +112,7 @@
 
   }
   .todo-item-edit {
-    font-size: 24px;
+    font-size: 18px;
     color: #2c3e50;
     margin-left: 12px;
     width: 100%;
